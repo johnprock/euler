@@ -3,4 +3,4 @@ euler
 
 My project Euler solutions
 
-[projecteuler.net]
+http://projecteuler.net
